@@ -16,7 +16,11 @@ I try to not affect saves with my mods, but taking backups is recommended. This 
 * Make a copy of the "LandlordsSuper" folder, either to another location or as a new folder name in the same place
 * If sharing the save, zip the folder for easier transfer
 
-#### Installation
+#### Installation (simple)
+
+* Download MeblIkea's mod manager https://github.com/MeblIkea/Landlords-Super-Mod-Manager and follow the setup instructions
+
+#### Installation (manual)
 
 * Download BepInEx 5 64-bit. Here is a direct link to version 5.4.19 which works with the game https://github.com/BepInEx/BepInEx/releases/download/v5.4.19/BepInEx_x64_5.4.19.0.zip
 * Unzip it into the game folder, next to LandlordsSuper.exe. Find it via Steam by right clicking the game > Manage > Browse local files, or by clicking "Streaming Assets" from the game's main menu then going up a folder
